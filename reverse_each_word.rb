@@ -20,7 +20,8 @@ reverse_each_word(greeting)
 
 def reverse_each_word(greeting)
   new_reversed_greeting = []
-  reversed_greeting = greeting.split
+  reversed_greeting = greeting.split.collect do |words|
+    
 
 
 
