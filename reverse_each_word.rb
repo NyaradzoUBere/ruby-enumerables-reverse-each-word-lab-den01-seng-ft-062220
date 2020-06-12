@@ -3,7 +3,7 @@ greeting = "Hello, there, and how are you?"
 greeting = greeting.split()
 
 greeting.each do |words|
-  puts words.reverse.join(' ')
+  puts words.reverse
 end
 
 
