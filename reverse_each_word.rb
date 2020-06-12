@@ -16,4 +16,4 @@ def reverse_each_word(greeting)
   reversed_greeting.join(" ")
 end
 
-puts reverse_each_word(greeting)
+reverse_each_word(greeting)
