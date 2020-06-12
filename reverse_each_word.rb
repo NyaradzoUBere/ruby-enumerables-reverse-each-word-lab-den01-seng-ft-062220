@@ -16,7 +16,7 @@ greeting = "Hello, there, and how are you?"
 #   reversed_greeting.join(" ")
 # end
 
-reverse_each_word(greeting)
+
 
 def reverse_each_word(greeting)
   new_reversed_greeting = []
