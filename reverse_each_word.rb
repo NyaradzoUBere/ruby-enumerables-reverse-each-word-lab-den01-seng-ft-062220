@@ -27,7 +27,7 @@ def reverse_each_word(greeting)
 end
 
 
-reverse_each_word(greeting)
+puts reverse_each_word(greeting)
 
 
 
