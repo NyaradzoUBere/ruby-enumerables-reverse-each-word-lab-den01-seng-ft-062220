@@ -6,6 +6,7 @@ def reverse_each_word
   greeting.each do |words|
     puts words.reverse
   end
+  
 end
 
 
