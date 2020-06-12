@@ -1,7 +1,7 @@
 greeting = "Hello, there, and how are you?"
 
 greeting = greeting.split()
-puts greeting
+
 
 puts greeting.reverse
 
