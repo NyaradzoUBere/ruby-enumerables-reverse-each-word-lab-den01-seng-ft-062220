@@ -5,7 +5,7 @@ greeting = greeting.split()
 
 
 greeting.each do |words|
-  greeting.reverse
+  puts greeting.reverse
 end
 
 greeting
