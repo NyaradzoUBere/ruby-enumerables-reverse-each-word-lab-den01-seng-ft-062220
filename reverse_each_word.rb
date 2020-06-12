@@ -6,7 +6,7 @@ greeting = greeting.each do |words|
   puts words.reverse
 end
 
-
+greeting.
 
 
 # def reverse_each_word
