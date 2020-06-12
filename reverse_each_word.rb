@@ -2,11 +2,10 @@ greeting = "Hello, there, and how are you?"
 
 greeting = greeting.split()
 
-greeting = greeting.each do |words|
+greeting.each do |words|
   puts words.reverse
 end
 
-puts greeting.concat
 
 
 # def reverse_each_word
