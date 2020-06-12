@@ -1,10 +1,10 @@
-greeting = "Hello, there, and how are you?"
+# greeting = "Hello, there, and how are you?"
 
-greeting = greeting.split()
+# greeting = greeting.split()
 
-greeting.each do |words|
-  puts words.reverse
-end
+# greeting.each do |words|
+#   puts words.reverse
+# end
 
 
 
