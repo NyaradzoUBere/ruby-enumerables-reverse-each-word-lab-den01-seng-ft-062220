@@ -19,8 +19,8 @@ end
 reverse_each_word(greeting)
 
 def reverse_each_word(greeting)
-  reversed_greeting = []
-  
+  new_reversed_greeting = []
+  reversed_greeting = greeting.split
 
 
 
