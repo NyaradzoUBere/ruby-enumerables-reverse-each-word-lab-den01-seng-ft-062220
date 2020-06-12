@@ -6,4 +6,4 @@ def reverse_each_word
   end
 end
 
-reverse_each_word
+puts reverse_each_word
