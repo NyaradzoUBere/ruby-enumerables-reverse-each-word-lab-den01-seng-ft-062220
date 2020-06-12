@@ -5,3 +5,5 @@ def reverse_each_word
     greeting.reverse
   end
 end
+
+reverse_each_word
