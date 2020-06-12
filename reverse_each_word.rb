@@ -8,7 +8,8 @@ end
 
 
 
-# def reverse_each_word
+def reverse_each_word(greeting)
+  
 #   greeting = greeting.split()
 #   greeting.each do |words|
 #     greeting.reverse
