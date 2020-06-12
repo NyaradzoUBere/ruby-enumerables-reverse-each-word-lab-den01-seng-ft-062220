@@ -6,7 +6,7 @@ greeting.each do |words|
   puts words.reverse
 end
 
-greeting
+greeting = greeting.join
 
 
 # def reverse_each_word
