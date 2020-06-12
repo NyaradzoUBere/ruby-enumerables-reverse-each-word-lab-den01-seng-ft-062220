@@ -17,3 +17,14 @@ def reverse_each_word(greeting)
 end
 
 reverse_each_word(greeting)
+
+def reverse_each_word(greeting)
+  reversed_greeting = []
+  
+
+
+
+
+
+
+
