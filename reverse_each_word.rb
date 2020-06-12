@@ -8,13 +8,13 @@ greeting = "Hello, there, and how are you?"
 
 
 
-def reverse_each_word(greeting)
-  reversed_greeting = []
-  greeting.each do |words|
-    reversed_greeting.push(words.reverse)
-  end
-  reversed_greeting.join(" ")
-end
+# def reverse_each_word(greeting)
+#   reversed_greeting = []
+#   greeting.each do |words|
+#     reversed_greeting.push(words.reverse)
+#   end
+#   reversed_greeting.join(" ")
+# end
 
 reverse_each_word(greeting)
 
