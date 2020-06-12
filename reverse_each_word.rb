@@ -9,11 +9,7 @@ end
 
 
 def reverse_each_word(greeting)
-  
-#   greeting = greeting.split()
-#   greeting.each do |words|
-#     greeting.reverse
-#   end
-# end
-
-# puts reverse_each_word
+  reversed_greeting = []
+  greeting.each do |words|
+    reversed_greeting.push(words.reverse)
+end
