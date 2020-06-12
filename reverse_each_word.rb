@@ -12,4 +12,5 @@ def reverse_each_word(greeting)
   reversed_greeting = []
   greeting.each do |words|
     reversed_greeting.push(words.reverse)
-end
+  end
+
